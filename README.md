@@ -2,7 +2,7 @@
 
 I was challenged to make my own package manager so here it is
 
-Btw edit yam.conf so the script will work, also only one package will download rn (instaPoster) but it won't install also updates(U and F options) don't work right now
+Btw edit yam.conf so the script will work, also only one package will download rn (yay-example-package) but it won't install also updates are kinda working right now
 
 ```
 -S <package> Downloads the selected package 
