@@ -1,0 +1,7 @@
+NAME=yam
+VERSION=v1.0
+LINK=github.com/Z3r0ish/yam/
+COMMIT=214439e218c1762a95f9d74ce1bfb4b8a1de5870
+AUTHOR=Z3r0ish
+CONFIG=yam.conf
+INSTALL_SCRIPT=install.sh
